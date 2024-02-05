@@ -471,13 +471,14 @@ h6 {
   }
 
   #hero .hero-img img {
-    width: 30%;
+    width: 70%;
+    margin-left: -300px;
   }
 }
 
 @media (max-width: 575px) {
   #hero .hero-img img {
-    width: 30%;
+    width: 80%;
   }
 
   #hero .btn-get-started {
